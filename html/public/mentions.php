@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,9 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MentionsLégales</title>
+    <link rel="stylesheet" href="assets.css/style.css">
   </head>
 
   <body>
+    <nav>
+      <img src="assets/logo pacaud.jpg" alt="logo de l'etablissement">
+      <a href="index.html">Acceuil</a>
+      <a href="">Graphisme</a>
+      <a href="">Impression Offset</a>
+      <a href="">Impression Numerique</a>
+      <a href="">Impression Grand Format</a>
+      <a href="">Faconnage</a>
+      <a href="">Notre équipe</a>
+      <a href="form.php">Nous contacter</a>
+    </nav>
+    
     <h1>Mentions légales de l'Imprimerie Pacaud à Coudekerque Branche</h1>
     <br />
     <ul>
@@ -27,5 +41,12 @@
     </li>
 </ul>
     </div>
+    <footer>
+    IMPRIMERIE PACAUD  @2023 -  
+    <a href="mentions.php">Mentions légales -</a>
+    <a href="vie_privee.php">Vie privée -</a>
+    <a href="coockies.php">Infos Cookies -</a>
+  
+  </footer>
   </body>
 </html>

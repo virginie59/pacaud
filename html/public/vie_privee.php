@@ -4,9 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets.css/style.css">
     <title>Vie Privée</title>
 </head>
 <body>
+    <nav>
+        <img src="assets/logo pacaud.jpg" alt="logo de l'etablissement">
+        <a href="index.php">Acceuil</a>
+        <a href="">Graphisme</a>
+        <a href="">Impression Offset</a>
+        <a href="">Impression Numerique</a>
+        <a href="">Impression Grand Format</a>
+        <a href="">Faconnage</a>
+        <a href="">Notre équipe</a>
+        <a href="form.php">Nous contacter</a>
+      </nav>
     <h1>Protection de la vie privée de l'Imprimerie Pacaud à Coudekerque Branche</h1>
     <h2>Protection de la vie privée</h2>
     <h3>1. Identité du responsable du traitement</h3>
@@ -70,5 +82,11 @@ Nous nous réservons le droit de modifier, à tout moment et sans préavis, tout
 <br>
 L'utilisation de notre site implique la pleine et entière acceptation de toute révision ou modification de nos règles relatives à la protection de la vie privée.
 </p>
+<footer>
+    IMPRIMERIE PACAUD  @2023 -  
+    <a href="mentions.php">Mentions Légales-</a>
+    <a href="vie_privee.php">Vie Privée-</a>
+    <a href="coockies.php">Infos Cookies</a>
+</footer>
 </body>
 </html>
